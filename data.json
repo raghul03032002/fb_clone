@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "raghulkrish2002@gmail.com",
+      "fname": "raghul",
+      "sname": "krishna",
+      "pwd": "4483"
+    },
+    {
+      "id": "r@gmail.com",
+      "fname": "Ram",
+      "sname": "kumar",
+      "pwd": "1234"
+    },
+    {
+      "id": "ram@gmail.com",
+      "fname": "ram",
+      "sname": "m",
+      "pwd": "1234"
+    }
+  ],
+  "post": [
+    {
+      "textarea": "test",
+      "image": "https://unsplash.com/photos/f5_lfi2S-d4",
+      "like": "",
+      "id": 1
+    },
+    {
+      "textarea": "Hai This is Ram",
+      "image": "",
+      "like": "",
+      "id": 2
+    },
+    {
+      "textarea": "hai,hello",
+      "image": "",
+      "like": "",
+      "id": 3
+    },
+    {
+      "textarea": "hai",
+      "image": "C:\\fakepath\\logfetch.png",
+      "like": "",
+      "id": 4
+    },
+    {
+      "textarea": "hai",
+      "image": "C:\\fakepath\\logfetch.png",
+      "like": "",
+      "id": 5
+    },
+    {
+      "textarea": "ram",
+      "image": "C:\\fakepath\\login.png",
+      "like": "",
+      "id": 6
+    },
+    {
+      "textarea": "ram",
+      "image": "C:\\fakepath\\login.png",
+      "like": "",
+      "id": 7
+    },
+    {
+      "textarea": "Ram",
+      "image": "C:\\fakepath\\fetch.png",
+      "like": "",
+      "id": 8
+    },
+    {
+      "textarea": "Ram",
+      "image": "C:\\fakepath\\map.png",
+      "like": "",
+      "id": 9
+    },
+    {
+      "textarea": "hai",
+      "image": "",
+      "like": "",
+      "id": 10
+    },
+    {
+      "textarea": "hai",
+      "image": "",
+      "like": "",
+      "id": 11
+    },
+    {
+      "textarea": "hai ram ",
+      "image": "",
+      "like": "",
+      "id": 12
+    },
+    {
+      "textarea": "hai",
+      "image": "",
+      "like": "",
+      "id": 13
+    },
+    {
+      "textarea": "hai its ram",
+      "image": "C:\\fakepath\\modal.png",
+      "like": "",
+      "id": 14
+    },
+    {
+      "textarea": "Buy a new toy ",
+      "image": "toy",
+      "like": "",
+      "id": 15
+    },
+    {
+      "textarea": "buy a car",
+      "image": "car",
+      "like": "",
+      "id": 16
+    },
+    {
+      "textarea": " i'am Beach",
+      "image": "beach",
+      "like": "",
+      "id": 17
+    }
+  ],
+  "product": [
+    {
+      "title": "Pen",
+      "image": "pens",
+      "price": "$20",
+      "id": 1
+    },
+    {
+      "title": "book",
+      "image": "books",
+      "price": "30",
+      "id": 2
+    },
+    {
+      "title": "car",
+      "image": "car",
+      "price": "$2000",
+      "id": 3
+    }
+  ]
+}
